@@ -1,0 +1,33 @@
+.greenBox {
+    width: 300px;
+    height: 100px;  
+    padding: 50px;
+    border: 1px solid red;
+    background-color: green;
+    float: left;
+}
+.blueBox {
+    width: 300px;
+    height: 100px;  
+    padding: 50px;
+    border: 1px solid red;
+    background-color:blue;
+    float: left;
+}
+.redBox {
+    width: 300px;
+    height: 100px;  
+    padding: 50px;
+    border: 1px solid blue;
+    background-color:red;
+    float: left;
+
+}
+.yellowBox {
+    width: 300px;
+    height: 100px;  
+    padding: 50px;
+    border: 1px solid blue;
+    background-color: yellow;
+    float: left;
+}
